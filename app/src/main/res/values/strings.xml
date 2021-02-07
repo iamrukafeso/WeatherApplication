@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rainfall_Assignment</string>
+    <string name="get_my_current_location">Get My Current Location</string>
+    <string name="apply_the_city">Apply the City</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="enter_name_of_city">Enter Name of City</string>
+    <string name="enter_number_of_days">Enter Number of Days:</string>
+    <string name="between_1_and_5">Between 1 and 5</string>
+    <string name="choose_rain_intensity">Choose Rain Intensity:</string>
+
+    <string-array name = "rain_array">
+        <item> Light Rain </item>
+        <item> Moderate Rain </item>
+        <item> Very Heavy Rain </item>
+        <item> Extreme Rain </item>
+    </string-array>
+
+</resources>
